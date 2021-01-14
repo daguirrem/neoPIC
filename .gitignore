@@ -1,0 +1,15 @@
+build/*
+debug/*
+disassembly/*
+nbproject/*
+build/*
+dist/*
+.vscode/*
+*.7z
+*.xml
+*.atsln
+*.cproj
+*.objproj
+*.workspace
+*.pdsbak
+*.X/*
